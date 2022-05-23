@@ -1,0 +1,35 @@
+.container {
+  background-color:teal;
+}
+.heading {
+  font-family: "Koulen", cursive;
+  text-align: left;
+  padding: 50px;
+}
+
+.home{
+    text-decoration: none;
+    position: absolute;
+    left: 1000px;
+    top: 85px;
+    color: black;
+    padding: 7px;
+}
+.aboutus{
+    text-decoration: none;
+    position: relative;
+    left: 1070px;
+    bottom: 110px;
+    color: black;
+padding:7px;
+}
+:hover.home{
+    background-color:orange;
+}
+:hover.aboutus{
+    background-color:orange;
+}
+.line{
+    position: relative;
+
+}
